@@ -24,3 +24,5 @@ If you are interesting One Robot Lab project, you can know where to get the tool
 > 7-zip : https://www.developershome.com/7-zip/
 
 > Drawio : https://github.com/jgraph/drawio-desktop/releases
+
+> Tera term: https://osdn.net/projects/ttssh2/releases/
